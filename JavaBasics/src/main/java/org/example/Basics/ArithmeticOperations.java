@@ -1,17 +1,6 @@
 package org.example.Basics;
 
 public class ArithmeticOperations {
-//    public  static void  choice(char symbol,int num1,int num2) {
-//        int result = switch(symbol){
-//            case '+' ->  num1+num2;
-//            case '-' -> num1-num2;
-//            case '/' ->num1/num2;
-//            case '*' -> num1*num2;
-//            case '%' -> num1%num2;
-//            default -> throw new ArithmeticException();
-//        };
-//        System.out.println(result);
-//    }
     public static void main(String[] args) {
         int num1 = 500;
         int num2 = 300;
@@ -44,3 +33,4 @@ public class ArithmeticOperations {
         System.out.println("xy:"+xy+" yx:"+yx);
     }
 }
+
